@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="qqp/">
+        <file>icons/close.svg</file>
+        <file>icons/ok.svg</file>
+    </qresource>
+</RCC>

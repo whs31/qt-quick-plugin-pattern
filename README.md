@@ -1,2 +1,2 @@
-# qt-quick-plugin-pattern
-(((Template))) repository for Qt5 Quick Plugin CMake-based
+# Qt5 Quick Plugin Pattern
+"Template" repository for **Qt5 Quick Plugin** (*CMake-based*)

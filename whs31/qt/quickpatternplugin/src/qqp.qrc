@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="qqp/">
+        <file>js/desc.js</file>
+        <file>qml/Example.qml</file>
+    </qresource>
+</RCC>

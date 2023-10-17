@@ -1,0 +1,7 @@
+module whs31.qt.quickpatternplugin
+plugin QtQuickPatternPlugin
+
+Example 1.0 qrc:/qqp/Example.qml
+Desc 1.0 qrc:/qqp/desc.js
+
+typeinfo plugins.qmltypes
